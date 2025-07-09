@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "Tipos de contexto cultural",
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "cod_con_cul": "PREH", "nom_con_cul": "Prehistoria" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 2, "cod_con_cul": "E_B", "nom_con_cul": "Edad del Bronce" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 3, "cod_con_cul": "E_H_I", "nom_con_cul": "Edad del Hierro I" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 4, "cod_con_cul": "E_H_II", "nom_con_cul": "Edad de Hierro II" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 5, "cod_con_cul": "CELT", "nom_con_cul": "Celtibérico" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 6, "cod_con_cul": "ROMA", "nom_con_cul": "Romano" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 7, "cod_con_cul": "VISI", "nom_con_cul": "Visigodo" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 8, "cod_con_cul": "AND_MUS", "nom_con_cul": "Andalusí Musulmán" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 9, "cod_con_cul": "AND_MOZ", "nom_con_cul": "Andalusí  Mozárabe" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 10, "cod_con_cul": "AND_JUD", "nom_con_cul": "Andalusí  Judío" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 11, "cod_con_cul": "MED_CRI", "nom_con_cul": "Medieval Cristiano" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 12, "cod_con_cul": "MED_MUD", "nom_con_cul": "Medieval Mudéjar" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 13, "cod_con_cul": "MED_JUD", "nom_con_cul": "Medieval Judío" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 14, "cod_con_cul": "MODE", "nom_con_cul": "Moderno" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 15, "cod_con_cul": "CONT", "nom_con_cul": "Contemporáneo" }, "geometry": null }
+]
+}

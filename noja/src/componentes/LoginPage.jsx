@@ -37,7 +37,7 @@ const LoginPage = () => {
     >
       <Card
         style={{ width: 350, boxShadow: "0 8px 24px rgba(0,0,0,0.1)" }}
-        bordered={false}
+        variant="outlined"
       >
         <Title level={3} style={{ textAlign: "center", marginBottom: 30 }}>
           Iniciar Sesión

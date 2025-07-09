@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "Tipo de fase",
+"features": [
+{ "type": "Feature", "properties": { "fid": 46, "cod_fase": "PRE", "nom_fase": "Prehistoria" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 47, "cod_fase": "EDA_BRO", "nom_fase": "Edad del Bronce" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 48, "cod_fase": "EDA_HIE_I", "nom_fase": "Edad del Hierro I" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 49, "cod_fase": "EDA_HIE_II", "nom_fase": "Edad del Hierro II" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 50, "cod_fase": "CEL", "nom_fase": "Celtibérico" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 51, "cod_fase": "ROM", "nom_fase": "Romano" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 52, "cod_fase": "VIS", "nom_fase": "Visigodo" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 53, "cod_fase": "AND_MUS", "nom_fase": "Andalusí Musulmán" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 54, "cod_fase": "AND_MOZ", "nom_fase": "Andalusí Mozárabe" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 55, "cod_fase": "AND_JUD", "nom_fase": "Andalusí Judío" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 56, "cod_fase": "MED_CRI", "nom_fase": "Medieval Cristiano" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 57, "cod_fase": "MED_MUD", "nom_fase": "Medieval Mudéjar" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 58, "cod_fase": "MED_JUD", "nom_fase": "Medieval Judío" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 59, "cod_fase": "MODERN", "nom_fase": "Moderno" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 60, "cod_fase": "CONTEM", "nom_fase": "Contemporáneo" }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 61, "cod_fase": "INDETER", "nom_fase": "Indeterminado" }, "geometry": null }
+]
+}

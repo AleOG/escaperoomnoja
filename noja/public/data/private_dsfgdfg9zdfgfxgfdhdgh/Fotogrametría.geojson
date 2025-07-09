@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Fotogrametría",
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "observaciones": "Restos Sector de los Pozos (Cerro de Santa Bárbara)", "enlace_3D": "https://sketchfab.com/3d-models/sector-pozos-cerro-santa-barbara-tudela-1c277b5148284176b3eedc5ff46a4f58", "numero_int": 5, "publico": 1 }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 2, "observaciones": "Maqbara Final Excavación Avda Barrio46 (Tudela)", "enlace_3D": "https://sketchfab.com/3d-models/maqbara-final-excavacion-avda-barrio46-tudela-9d1f2ad09dd14af781ce10d6214dfe25", "numero_int": 93, "publico": 1 }, "geometry": null },
+{ "type": "Feature", "properties": { "fid": 3, "observaciones": "Interior excavación arqueológica de la iglesia de San Nicolás (Tudela)", "enlace_3D": "https://sketchfab.com/3d-models/interior-de-la-iglesia-de-san-nicolas-tudela-d2381ce7353b430da9aa7cd9083edafb", "numero_int": 84, "publico": 1 }, "geometry": null }
+]
+}
