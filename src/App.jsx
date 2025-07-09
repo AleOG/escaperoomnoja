@@ -3,7 +3,7 @@ import LoginPage from "./componentes/LoginPage";
 import HomePage from "./componentes/HomePage";
 
 const App = () => (
-  <Router>
+  <Router basename="/escaperoomnoja">
     <Routes>
       <Route path="/" element={<LoginPage />} />
       <Route path="/home" element={<HomePage />} />
