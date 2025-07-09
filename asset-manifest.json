@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/escaperoomnoja/noja/static/css/main.4eae86a0.css",
-    "main.js": "/escaperoomnoja/noja/static/js/main.b0f4800f.js",
-    "static/js/453.be8f9a34.chunk.js": "/escaperoomnoja/noja/static/js/453.be8f9a34.chunk.js",
-    "index.html": "/escaperoomnoja/noja/index.html",
-    "main.4eae86a0.css.map": "/escaperoomnoja/noja/static/css/main.4eae86a0.css.map",
-    "main.b0f4800f.js.map": "/escaperoomnoja/noja/static/js/main.b0f4800f.js.map",
-    "453.be8f9a34.chunk.js.map": "/escaperoomnoja/noja/static/js/453.be8f9a34.chunk.js.map"
+    "main.css": "/escaperoomnoja/static/css/main.4eae86a0.css",
+    "main.js": "/escaperoomnoja/static/js/main.c06acc6b.js",
+    "static/js/453.be8f9a34.chunk.js": "/escaperoomnoja/static/js/453.be8f9a34.chunk.js",
+    "index.html": "/escaperoomnoja/index.html",
+    "main.4eae86a0.css.map": "/escaperoomnoja/static/css/main.4eae86a0.css.map",
+    "main.c06acc6b.js.map": "/escaperoomnoja/static/js/main.c06acc6b.js.map",
+    "453.be8f9a34.chunk.js.map": "/escaperoomnoja/static/js/453.be8f9a34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4eae86a0.css",
-    "static/js/main.b0f4800f.js"
+    "static/js/main.c06acc6b.js"
   ]
 }
