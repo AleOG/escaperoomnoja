@@ -6,6 +6,7 @@ import { INITIAL_ZOOM, NOJA_CENTER_COORDS } from "../constantes";
 import { addLefletControls } from "../utilities/leaflet_utilities";
 import { mapaBaseNoja } from "../utilities/leaflet_idena_utilities";
 import './map.css';
+import Toolbar from "./toolbar/toolbar";
 
 const HomePage = () => {
 
@@ -77,6 +78,7 @@ const HomePage = () => {
                 <div className='app-container'>
                     <div className='map' id={"map_" + uid}>
                         {mapView && <Map></Map>}
+                        {mapView && <Toolbar></Toolbar>}
                     </div>
                 </div>
             }
