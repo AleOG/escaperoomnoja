@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ruta_trengandin",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "titulo": "¡Vamos a andar!", "orden": 2, "desbloqueado": false, "pregunta": "¿Cuánto mide la playa de Trengandín de punto a punta? Es hora de encender el Strava y caminar ;)", "opciones": [ { "value": "opcion1", "label": "Entre 2 y 3 mil metros." }, { "value": "opcion2", "label": "Más de 4 mil metros." }, { "value": "opcion3", "label": "Entre 3 y 4 mil metros." }, { "value": "opcion4", "label": "Menos de 2 mil metros." } ], "solucion": "opcion3" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -3.51710491612135, 43.480102991941827 ], [ -3.51573276810624, 43.478323565457806 ], [ -3.513410558398931, 43.476791097885595 ], [ -3.508226266234606, 43.474595229048575 ], [ -3.504266264219401, 43.473589927396098 ], [ -3.500185230651502, 43.47232497523347 ], [ -3.498151980103509, 43.471120318877396 ], [ -3.494573067663386, 43.470095683662883 ], [ -3.491809871379906, 43.469847558957738 ], [ -3.489000490124608, 43.469772926812979 ], [ -3.485499043149665, 43.469475795738347 ], [ -3.482783100701954, 43.469175243627632 ], [ -3.480018482999911, 43.468736141817061 ] ] ] } }
+]
+}

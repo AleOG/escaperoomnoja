@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "skatepark",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "titulo": "¡Mola ser un skater!", "orden": 4, "desbloqueo": false, "pregunta": "Se muestran 6 grafititis, 4 de ellos están en este skate park. ¿Los puedes encontrar?", "opciones": [ { "value": "foto1", "label": "./fotos/foto1.png" }, { "value": "foto2", "label": "./fotos/foto2.png" }, { "value": "foto3", "label": "./fotos/foto3.png" }, { "value": "foto4", "label": "./fotos/foto4.jpg" }, { "value": "foto5", "label": "./fotos/foto5.jpg" }, { "value": "foto6", "label": "./fotos/foto6.png" } ], "salucion": [ "foto1", "foto2", "foto3", "foto6" ] }, "geometry": { "type": "Point", "coordinates": [ -3.518060349779034, 43.477684607971213 ] } }
+]
+}

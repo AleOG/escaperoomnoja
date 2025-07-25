@@ -1,0 +1,36 @@
+{
+	"layers": [
+		{
+			"name": "pregunta_gente",
+			"geojson": "pregunta_gente.geojson",
+			"sld": "pregunta_gente.sld",
+			"popup": "popup.hbs",
+			"visible": true
+		},
+		{
+			"name": "ruta_acantilado",
+			"geojson": "ruta_acantilado.geojson",
+			"sld": "ruta_acantilado.sld",
+			"popup": "popup.hbs",
+			"visible": true
+		},
+		{
+			"name": "ruta_trengandin",
+			"geojson": "ruta_trengandin.geojson",
+			"sld": "ruta_trengandin.sld",
+			"visible": true
+		},
+		{
+			"name": "gofreria",
+			"geojson": "gofreria.geojson",
+			"sld": "gofreria.sld",
+			"visible": true
+		},
+		{
+			"name": "skatepark",
+			"geojson": "skatepark.geojson",
+			"sld": "skatepark.sld",
+			"visible": true
+		}
+	]
+}
