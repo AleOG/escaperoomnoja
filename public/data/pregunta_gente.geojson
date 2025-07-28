@@ -3,6 +3,6 @@
 "name": "pregunta_gente",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "fid": 1, "titulo": "Pregunta a la gente", "orden": 1, "desbloqueo": true, "pregunta": "¿Qué se suele disparar desde aquí en verano", "opciones": [ { "value": "opcion1", "label": "Un revolver para el inicio de la carrera naval de Trengandín." }, { "value": "opcion2", "label": "Un cañon para homenajear a un marinero de Noja." }, { "value": "opcion3", "label": "Unos pequeños fuegos artificiales en las fiestas de Noja." } ], "solucion": "opcion2" }, "geometry": { "type": "Point", "coordinates": [ -3.517461244249781, 43.480185893667084 ] } }
+{ "type": "Feature", "properties": { "fid": 1, "titulo": "Pregunta a la gente", "orden": 1, "desbloqueo": true, "pregunta": "¿Qué se suele disparar desde aquí en verano?", "opciones": [ { "value": "opcion1", "label": "Un revolver para el inicio de la carrera naval de Trengandín." }, { "value": "opcion2", "label": "Un cañon para homenajear a un marinero de Noja." }, { "value": "opcion3", "label": "Unos pequeños fuegos artificiales en las fiestas de Noja." } ], "solucion": "opcion2" }, "geometry": { "type": "Point", "coordinates": [ -3.517461244249781, 43.480185893667084 ] } }
 ]
 }
